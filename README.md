@@ -1,4 +1,5 @@
 # Next Generation Command and Control
+<img width="1254" height="1254" alt="next-gen" src="https://github.com/user-attachments/assets/939b0941-5434-4197-82ae-0619f6d301e4" />
 
 > **A spy satellite simulator in your browser, except the data is real.**
 
